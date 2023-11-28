@@ -14,6 +14,14 @@ Increasing Health Problems and Stress Stress and various health problems are occ
 
 
 *****
+## 🌆 Introduction
+Sleep is an important physiological process that greatly affects our health and quality of life. Bad sleep quality can be associated with stress, depression, anxiety, excessive fatigue, poor concentration, and physical health problems. Therefore, it is very important to measure and improve the quality of sleep. Against this backdrop, it is important to understand the relationship between sleep quality and brain waves and to create applications that help correct sleep patterns. 
+
+In fact, we found several sleep diary writing platforms for people suffering from sleep disorders. But most of the applications came in a rigid format, and there were even applications that provided only a role as a diary without even the ability to analyze sleep. We wanted to **create a systematic sleep analysis** and an application that helps users keep writing their sleep diaries without getting bored. So, We used **Image creation AI and Brid.zzz** to make this happen.
+
+LG electronic released Brid.zzz for user's mental care and sleep care. Brid.zzz recognizes the brain waves when the user sleeps and provides an analysis of them. We will ask the **image-generating AI to provide relevant images by combining this data with the qualitative data entered by the user**. When the picture is created, the user can receive **the sleep state as a visual image** rather than a text, which stimulates the visual and makes it more interesting than before to write a sleep diary.
+
+*****
 ## 🌆 Target Users
 Mainly focused on **insomniacs**.
 
