@@ -2,14 +2,17 @@
 ******
 Sleep diary and sleep solution using Brid.zzz and DALL-E
 
+
 ### 🌆 Abstract
 ******
 Increasing Health Problems and Stress Stress and various health problems are occurring on a daily basis in modern society, and these problems are associated with poor sleep quality, and lack of sleep negatively affects physical and mental health, and it is becoming increasingly important to recover your body and mind through sleep and rest. In modern society, digital healthcare that can restore sleep quality has become possible thanks to the items described below. Advances in Scientific Research: Sleep analysis through brainwaves has made significant strides in the field of sleep research in recent decades, and it plays an important role in understanding and improving individual sleep patterns. The Importance of Personalized Health Care: Personalized Health Care is being emphasized. Therefore, an application is needed to measure brain waves and provide advice accordingly to tell you which type of sleep pattern is most ideal for an individual. Technology Innovation and Utilization: Technology innovation allows users to easily collect sleep data and receive personalized health information. Sleep management applications using this help promote healthy lifestyles for users.
+
 
 ### 🌆 Target Users
 *****
 Mainly focused on **insomniacs**.
 Everyone who wants to make their own sleep images and write their own sleep diary.
+
 
 ### 🌆 Main Functions
 *****
@@ -31,10 +34,12 @@ Through this process, a picture representing the user's sleep state for the day 
 We provide insights into the most significant factors influencing the quality of a user's sleep through correlation analysis.
 Using machine learning, we predict the quality of sleep based on changes in each factor, offering a personalized sleep solution tailored to the user.
 
+
 ### 🌆 Links
 ******
 1️⃣Figma for UI design
 TBA
+
 
 ### 🌆 Contributers
 |**Name**|**Role**|**E-mail**|
