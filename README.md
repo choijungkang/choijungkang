@@ -15,25 +15,25 @@ Everyone who wants to make their own sleep images and write their own sleep diar
 
 *****
 ## 🌆 Main Functions
-### Writing a Sleep Diary
+### 1️⃣ Writing a Sleep Diary
 
 Users suffering from insomnia record their sleep patterns and quality in text format throughout the day.
 
-### Checking Factors Affecting Sleep
+### 2️⃣ Checking Factors Affecting Sleep
 
 While there are various factors that can influence sleep, in our project, we prompt users to input their caffeine intake, exercise routine, and alcohol consumption as key elements.
 
-### Providing Sleep Solutions
+### 3️⃣ Providing Sleep Solutions
 
 We analyze the user-input sleep factors along with sleep data obtained from Brid.zzz to offer a personalized sleep solution.
 
-### Image-Generating AI
+### 4️⃣ Image-Generating AI
 
 We utilize the image-generating AI, DALL-E.
 Input the sleep diary text and the user's sleep state data into the prompt.
 Through this process, a picture representing the user's sleep state for the day is generated, allowing the user to visually assess how their sleep was at a glance.
 
-### Data Analysis and Machine Learning
+### 5️⃣ Data Analysis and Machine Learning
 
 We provide insights into the most significant factors influencing the quality of a user's sleep through correlation analysis.
 Using machine learning, we predict the quality of sleep based on changes in each factor, offering a personalized sleep solution tailored to the user.
