@@ -59,6 +59,10 @@ TBA
 |Jeong YunSeo|ML & Document|kathy531@hanyang.ac.kr|
 |Jung WooSeong|Front-end & Design|junusong12@hanyang.ac.kr|
 |Choi WonJun|Front-end & Design|dnjswns0920@hanyang.ac.kr|
+*****
+
+## 🌆 More
+<a href="https://www.notion.so/Your-Daily-Sleep-at-a-Glance-29b86ced27774ab29bcb64310a8659d9" target="_blank">**Your Daily Sleep at a Glance</a>
 
 <!--
 **choijungkang/choijungkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
