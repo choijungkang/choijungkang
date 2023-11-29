@@ -1,7 +1,8 @@
 # 💤 Your Daily Sleep at a Glance
 Sleep diary and sleep solution using Brid.zzz and DALL-E
 *****
-![Uploading image.png…]()
+  ![1 lg_](https://github.com/choijungkang/choijungkang/assets/145100780/3e6ee708-ebf0-4552-aee1-8fa501187feb)
+
 
 
 ## 🌆 Abstract
