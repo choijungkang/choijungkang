@@ -56,8 +56,9 @@ Using machine learning, we predict the quality of sleep based on changes in each
 
 *****
 ## 🌆 Links
-1️⃣ Figma for UI design
-
+1️⃣ UI Design
+<a href="https://www.figma.com/file/sYPRctHSKSINOswbzCGhcd/Untitled?type=design&node-id=35%3A77&mode=design&t=58YNTjPLGX9xnxbz-1" target="_blank">Figma1</a>
+<a href="https://www.figma.com/file/9vGE6NIpQVL8gZSQULzJmX/%EC%A0%95%EC%9A%B0%EC%84%B1's-team-library?type=design&node-id=2312-16&mode=design" target="_blank">Figma2</a>
 
 TBA
 
