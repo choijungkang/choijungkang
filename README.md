@@ -77,7 +77,7 @@ TBA
 *****
 
 ## 🌆 More
-<a href="https://www.notion.so/Your-Daily-Sleep-at-a-Glance-29b86ced27774ab29bcb64310a8659d9" target="_blank">**Your Daily Sleep at a Glance**</a>
+<a href="https://vvd.bz/cMqr" target="_blank">**Your Daily Sleep at a Glance**</a>
 
 <!--
 **choijungkang/choijungkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
